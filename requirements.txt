@@ -5,4 +5,4 @@ yt_dlp
 dragonxxdlib
 youtube_search
 requests
-aSQl
+asSQL
