@@ -1,0 +1,7 @@
+pyrogram
+aiohttp
+getids
+yt_dlp
+dragonxxdlib
+youtube_search
+requests
